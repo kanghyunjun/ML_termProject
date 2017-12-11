@@ -49,27 +49,31 @@ number at last field mean 10 kind of protein.
 9 : ERL (endoplasmic reticulum lumen)
 
 
-
-                                                                                                                                                       
- Key Concept
+Key Concept
 
 A.   Multinomial classfication
+
 Multiclass or multinomial classification is the problem of classifying instances into one of three or more classes.
 
 B.   Softmax Function
+
 It is a generalization of the logistic function that "squashes" a K-dimensional vector {\displaystyle \mathbf {z} }of arbitrary real values to a K-dimensional vector {\displaystyle \sigma (\mathbf {z} )}of real values in the range [0, 1] that add up to 1.
 
 C.   One_hot
+
 One hot encoding is a process by which categorical variables are converted into a form that could be provided to ML algorithms to do a better job in prediction. Only one variable is 1, the others are 0
 
 D.   Reshape
+
 This function can be used to change matrix to another forms. It changes the structure of the tensor while it remains intact.
 
 E.   Multi Layer Perceptron (Hidden Layer)
+
 A multilayer perceptron (MLP) is a class of feed forward artificial neural network. An MLP consists of at least three layers of nodes. Except for the input nodes, each node is a neuron that uses a nonlinear activation function.
 Nodes that between input node and output node is hidden layer.
 
 F.   Cross Validation
+
 It is a model validation technique for assessing how the results of a statistical analysis will generalize to an
 independent data set. 
 It is mainly used in settings where the goal is prediction, and one wants to estimate how accurately a predictive model will perform in practice
