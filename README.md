@@ -17,13 +17,13 @@ As a result, identifying the sub cellular compartment within which a protein is 
 
 Yeast data set has 1484 dates and 8 predictive attributes. 
 
-1) mcg : McGeoch's method for signal sequence recognition.
+1)mcg : McGeoch's method for signal sequence recognition.
 
 2)gvh : von Heijne's method for signal sequence recognition.
 
 3)alm : Score of the ALOM membrane spanning region prediction program.
 
-4) mit : Score of discriminant analysis of the amino acid content of the N-terminal region(20 residues long) of mitochondrial and non-mitochondrial proteins.
+4)mit : Score of discriminant analysis of the amino acid content of the N-terminal region(20 residues long) of mitochondrial and non-mitochondrial proteins.
 
 5)erl : Presence of "HDEL" substring (thought to act as a signal for retention in the endoplasmic reticulum lumen). Binary attribute.
 
