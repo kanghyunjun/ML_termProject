@@ -49,7 +49,7 @@ number at last field mean 10 kind of protein.
 9 : ERL (endoplasmic reticulum lumen)
 
 
-Key Concept
+ 3. Key Concept
 
 A.   Multinomial classfication
 
