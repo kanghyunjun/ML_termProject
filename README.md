@@ -14,7 +14,6 @@ As a result, identifying the sub cellular compartment within which a protein is 
                                                                                                                                  
 2. Data Set Information
 
-
 Yeast data set has 1484 dates and 8 predictive attributes. 
 
 1)mcg : McGeoch's method for signal sequence recognition.
@@ -35,3 +34,16 @@ Yeast data set has 1484 dates and 8 predictive attributes.
 
 field has value of predictive attribute. The last field is the result and this means that it was be categorized as a total 10 kind of proteins. 
 So, we can build the model by learning of this data. When new data comes into data set, we can predict what kind of protein it is.
+
+number at last field mean 10 kind of protein.
+
+0 : CYT (cytosolic or cytoskeletal)
+1 : NUC (nuclear)  
+2 : MIT (mitochondrial)
+3 : ME3 (membrane protein, no N-terminal signal)
+4 : ME2 (membrane protein, uncleaved signal)  
+5 : ME1 (membrane protein, cleaved signal) 
+6 : EXC (extracellular)
+7 : VAC (vacuolar)  
+8 : POX (peroxisomal)
+9 : ERL (endoplasmic reticulum lumen)
